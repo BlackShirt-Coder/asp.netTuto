@@ -1,0 +1,9 @@
+D:\shoon lai kyi\Ass2\parallel array\parallel array\bin\Debug\parallel array.exe.config
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel array.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel_array.Form1.resources
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel_array.Properties.Resources.resources
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel array.csproj.GenerateResource.Cache
+D:\shoon lai kyi\Ass2\parallel array\parallel array\bin\Debug\parallel array.exe
+D:\shoon lai kyi\Ass2\parallel array\parallel array\bin\Debug\parallel array.pdb
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel array.exe
+D:\shoon lai kyi\Ass2\parallel array\parallel array\obj\Debug\parallel array.pdb

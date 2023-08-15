@@ -1,0 +1,6 @@
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\bin\AspLecture1.dll.config
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\bin\AspLecture1.dll
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\bin\AspLecture1.pdb
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\obj\Debug\AspLecture1.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\obj\Debug\AspLecture1.dll
+D:\shoon lai kyi\Ass2\AspLecture1\AspLecture1\obj\Debug\AspLecture1.pdb
